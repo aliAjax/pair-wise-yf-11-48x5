@@ -37,5 +37,7 @@
       "repairedAt": null
     }
   ],
-  "batches": []
+  "batches": [],
+  "repairRecords": [],
+  "batchEvents": []
 }
